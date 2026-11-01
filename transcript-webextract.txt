@@ -1,0 +1,184 @@
+[0:00] This AI influencer grew to over 1 million followers on Instagram in just 21 days. He's not a real person, but
+[0:07] he's made well over $10,000 the first month. So, I've decided to try to build my own AI influencer to prove it's not luck. And if it works, I'll be
+[0:15] documenting the entire process so you can do the same. The rules are simple.
+[0:20] 21 days, a $500 budget, and we either hit our growth goals and make our first sale. Otherwise, I'm giving $500 to the
+[0:27] funniest comment. But for this to make sense, we need to start at the beginning. From doing research to find out what's working, I found this
+[0:34] account. Rabbi Goldman has grown from 0 to 1 million followers in just 21 days and generated over a 100 million views.
+[0:41] And he's not the only one. This account grew to over 1 million followers in 6 weeks. This account grew to over 300,000 in a month. And I'm actually tracking a
+[0:50] list of these AI influencers because so many of them are growing so fast. A lot of these accounts are pulling hundreds of millions of views. And if we assume
+[0:58] that just 0.1% of those are converting into buyers at $9 products, that's still 10,000 people. At $9 each, that could be
+[1:07] up to $90,000 from one product in less than a month. But why is this working so well? Well, first, they all start with a
+[1:14] good niche. Because even if you get hundreds of millions of views, if you choose the wrong niche, you're not going to make any money. The niches that consistently make the most money are
+[1:23] what I call the core four. Health, so fitness, weight loss, glowups, and longevity. People are always going to pay to look and feel their best. Wealth,
+[1:32] meaning investing, side hustles, and money strategies. Relationships, so dating, attraction, breakup recovery.
+[1:39] And by the way, in the relationship niche, I just blew up another Instagram account. You can see this is live, to over 60,000 followers in just the last
+[1:47] month. And we're making a video about that. So, make sure you're subscribed to see that as well. And self-improvement, meaning mindset, productivity, and discipline. These four niches work so
+[1:56] well because the pain that the viewer is experiencing never goes away. And we could just come to Google Trends to confirm it. If we look at some of these keywords year-over-year, there's no
+[2:05] spike, there's no crash, there is just pure demand. So, back to Rabbi Goldman and choosing our niche, I don't want to copy him directly. When an account is
+[2:13] already established in that niche, you're going to be fighting for the same audience. And the account that got there first is typically going to win. So what we are going to do is find a similar
+[2:21] niche with the same demand but less competition. And after hours of going through Google Trends, that was when I discovered it. Female glow-ups. It's the
+[2:30] same psychology as the wealth niche, but nowhere near as saturated. And what I noticed dissecting a lot of these AI influencer accounts like this one, this
+[2:38] same storytelling structure seems to be working across all of these. They start with an attention-grabbing hook. Then throughout the video, they subtly tap on
+[2:46] the viewer's pain points and their desire to transform. And then toward the end of the video, they give an ultimate payoff. Most people talk about hooks on
+[2:53] social media, but I would argue that the payoff is more important. The payoff is essentially where you want to spike your viewers dopamine. You want them to walk
+[3:00] away from your content thinking, I am so satisfied that I just watched that. That was awesome. And if you notice, that's what every viral video does on
+[3:09] Instagram. So that's our niche. But now we need to go and build the character.
+[3:12] And I'm going to be timing this so you can see exactly how long it takes. Clock starts. Now, here's the problem that kills most AI influencer accounts before
+[3:21] they ever get started. You generate a great image, you start posting, and then your next post looks like a completely different person. And soon, your
+[3:29] audience has no idea who they're actually following. This is the problem of character consistency. But I'm going to show you the fix in Higsfield. If you
+[3:37] don't know what Higsfield is, it's a software that gives you access to all the best AI models. Once we're inside, we're going to select image, then Nano
+[3:44] Banana Pro. Then we want to have 9x6 for reals. And always make sure to use 4K quality. What I really love about this
+[3:51] tool is that you can actually control the batch size. So instead of just getting one image, we can ask for four to see some variations. Now, I'm going
+[3:59] to show you two ways to prompt. And we're going to start with the wrong way.
+[4:02] This is what most people do. a hyperrealistic woman, slightly overweight, brown hair, gym background with low energy. Then they click
+[4:10] generate. So, this is pretty cool, but she still kind of looks like a stock photo. Most people on social media are going to immediately recognize that this
+[4:17] is AI and scroll right past it. But now, let me show you how I actually do this. I use something called JSON prompting.
+[4:25] Instead of one vague sentence, you're going to give a full model breakdown.
+[4:28] We're talking the subject, the lighting, the environment, the mood, the camera angle, all separated out so Nano Banana Pro knows exactly what you want. And
+[4:37] guys, we're actually going to be doing a $500 Higsfield prompting giveaway in the comments below. All you have to do to submit is drop your best image prompt on
+[4:45] Higsfield in the comments. Then I'll pick a few of my favorites, generate them, and post them to my community board over the next few weeks. And whoever's image gets the most likes, I
+[4:54] will send $500 to. But back to my prompt. I'm going to say subject 57year-old woman, slightly overweight, brown hair, low energy expression, just
+[5:03] beginning her fitness journey. The environment should be an older, run-down gym, fluorescent lighting, worn out equipment. The style should be hyperrealistic, 4K, natural skin texture
+[5:12] with imperfections, and fine hair strands visible. The mood should feel tired, self-conscious, early morning, and the camera should feel eyele 9x6
+[5:21] vertical. Now, remember, your character doesn't have to be a glowup account like mine. This is the image we generated for the character on my account. But the
+[5:29] beauty of this is that you can build literally anyone you want. So, let me just show you a few examples really quickly. If you wanted to build an AI influencer in the self-improvement
+[5:38] niche, young motivated guy, early morning energy, something like this would work. Or if you wanted to replicate another viral influencer like
+[5:45] Chen Chinese Med, who has almost a million followers and he's selling an Amazon product, you would just submit a prompt like this and boom, you have
+[5:52] results in less than 5 minutes. Same process, completely different characters in different niches. Okay, account setup. I'm going to keep this short
+[6:01] because it's not complicated. You want something that sounds like a real person, not AI glowup girl 2026.
+[6:08] Personally, I use Claude for this, not Chat GPT because Chad GBT is cooked. You can just ask it to give you 10 realistic
+[6:16] name combinations for whatever your niche is. You can even come to this website and verify whether or not that handle has been taken. Now, here's the
+[6:23] part that a lot of people skip, and it's probably the biggest difference between accounts that make money and accounts that just get views. Your bio needs to
+[6:31] do two jobs. So, you want to stack your bio with keywords that people are searching for. Secondly, if you are going to monetize your account, which
+[6:39] we're going to do later in this video, then you want the bio to position you as an expert and help push people towards your product. And again, we're going to
+[6:46] be building our own product later in this video. Make sure that you either have a creator or a business account so that you have access to all the insights
+[6:53] that we need to learn from. And then one secret sauce hack if you really want to control who sees your content is you can come inside settings and then select
+[7:01] minimum age and you can limit the age number from certain countries. So if you don't want certain countries engaging with your content, you can automatically
+[7:09] limit that by clicking this and then choosing 25 for that country. Awesome.
+[7:14] So once you have your profile live, now you can start posting content. All right, so after the first few posts went live, I'm not going to lie, things are
+[7:22] not looking great. We're getting about 52 likes and 5,000 views per post. And I forgot to mention that around this time we did upgrade our Higsfield plan
+[7:31] because we needed more credits. We'll find out if we can stay under budget, but I'm hoping we start to see some traction soon. And that's going to be a huge problem if we're going to have any
+[7:40] chance of hitting our goals. So to hopefully improve this situation, we're going to focus on more content, better content, and understanding what actually
+[7:48] works on the algorithm. But this is usually the part where most people give up because it is anything but easy.
+[7:54] Okay, so coming back to the AI influencer accounts that are blowing up, they are doing three things. More, better, new. And I think Horoszi said
+[8:03] that first. Basically, you want to be uploading more content than your competition. You want to be making better content, meaning content that actually gets people to engage with it.
+[8:12] And then the last one is the hardest part. You want to find something novel or new about your content that the internet is not used to seeing. And if
+[8:20] we just look at these viral accounts, they're usually uploading multiple times a day. The content is extremely engaging and the storytelling is unlike anything
+[8:29] we've seen before. But the secret sauce is finding a way to apply that to our niche. So, I'm going to walk you through how I would do that. To do this, I'm
+[8:37] going to come back into Higsfield and we're going to actually come to video this time. Now, you can use all sorts of these video models depending on the type
+[8:44] of content you want your AI influencer to have, but for my character, I'm going to use Google Vo 3.1. And so, remember
+[8:51] how we generated this image inside of Nano Banana Pro? Well, we're just going to add that image as our start frame.
+[8:57] Next, you're going to add your prompt for what you want your character to do on screen. So, I'm going to prompt it to say, "Please have her put her hands at
+[9:05] her sides and look unhappy." She should do a full 360 turnaround and then look at her belly and sigh. She should look annoyed. Camera stays still. Now, before
+[9:14] you click generate, you would come down here and if you wanted multiple shots, like multiple different angles in your video, you would toggle this on. I
+[9:22] don't. I want my camera to be still the entire time. And then again, you can choose the model here. So, you can switch that up if you wanted to. I
+[9:29] always run it on 1080p so it's the highest quality possible. You want to make sure that it's 9 by6. We do not want this horizontal. We want it
+[9:38] vertical for Instagram. And then you want to choose your time. So I'm going to just do 8 seconds so I get as much of a clip as I need. Then just go ahead and
+[9:45] click generate. And let's see what it comes up with.
+[9:51] So then I also went ahead and made the desired transformation version of our girl. Remember, we want our audience to relate to that current situation and
+[9:59] then see what's possible in that desired situation. And our content will help bridge that gap between the two. For this prompt, I'm going to say have her
+[10:07] smile and flex her arms. Then she turns around to face the wall behind her and does a pose like a fitness influencer while looking back at the camera. Then
+[10:15] have her turn back around and face the camera looking confident and happy. And then I am going to add at the bottom,
+[10:22] she does not speak at all during the video. Camera stays still. If you want,
+[10:30] you can come over here. Higsfield basically helps you generate a better version of your prompt, which is kind of cool. And we're going to go ahead and click generate and see if we get a
+[10:38] better result. Okay, so we got our reels back and I'm going to show you both of them real quick. And around this time, we also picked up a Claude subscription
+[10:46] to help us generate scripts. But honestly, it was worth every penny because this is when we started seeing traction, and I knew I had to double down. So, this is the before. It's
+[10:54] perfect. Absolutely perfect. She still size. We're going to have to tone that audio down, but it's great. And then, let's show you the after. Looking way
+[11:02] more confident. She strikes a pose and then she turns around and looks really confident. So, our next step would be to take this over to a video editor of your
+[11:12] choice. I'm just going to use Final Cut right now and drag these two clips in.
+[11:16] But before we do that, we actually need to find a viral song because back to that storytelling script, we need to start with a strong hook and then at the end it needs to spike viewers attention.
+[11:27] So I want that to literally look like a graph that starts out strong and then respelling
+[11:35] framework we talked about at the beginning. So after going through Instagram, I found a viral song that I like. I'm not going to play it now cuz I don't want this video to get
+[11:43] copyrighted, but you'll see the finished product at the end. Great. So, basically all I did was go ahead and drag over the first clip and then the second clip I
+[11:51] cut it up a little bit so there would be some beats and some more movement so it's not so stagnant. And then all I'm going to do is add some text on screen.
+[12:00] I want this text to say something like 2023 miserable divorced by my husband.
+[12:05] And then at the end of the video, it's going to shift to 2026 or current desired situation in the best shape of my life. And I'm going to go ahead and
+[12:13] play this. You guys are going to be able to hear the actual song I chose, but I'm going to speak over it so we don't get any weird copyright issues. But yeah,
+[12:20] she basically looks super out of shape at the beginning, you know, unhappy.
+[12:24] She's kind of wearing this geeky outfit and then all of a sudden she's got a ton of swag and it cuts and it looks really strong. So ideally, our viewer is going
+[12:33] to be hooked at the beginning by that visual text on screen and then at the end their dopamine is going to be spiked and they're going to be like, "Wow, that is so awesome. Congrats." And then when
+[12:41] I'm uploading it, again, I want to stack the caption with keywords to help train Instagram to find who our ideal viewers
+[12:49] are. We want people who are looking for glow-ups, nutrition, fitness journeys, etc. And now my team is going to go make 10 more of these. So, we're uploading
+[12:58] more. We're going to try to make them as good as possible so they're better. And of course for new, I think that this style is pretty unseen on Instagram. And
+[13:06] so we're going to find out if it's novel enough. All right, guys. We officially have motion. This post got over 300,000
+[13:14] views. And look at how many of those are nonfollowers. This is what happens when you actually create content that works on the algorithm. The team's been
+[13:22] working super hard pumping out content, but if we're going to make any money, we need to figure out how we're going to monetize this. To figure out our monetization strategy, I want to go back
+[13:31] and look at the sample accounts. Most of them are just selling these $9 ebooks, which seems to be working really well.
+[13:37] Looking at the sales pages that a lot of these AI influencers are using, they're extremely simple. They're $9 product, which means it's just an impulse buy.
+[13:45] And you don't really need to know, like, or trust them that much to decide to buy what they're selling. Now again, let's run the numbers. 100 million views,
+[13:52] which by the way, he has way more than that at this point. Even at 0.01 conversion, that's 10,000 buyers at $9
+[14:00] each, that is $90,000 from one product built once and sold forever. And this right here is why AI digital products
+[14:09] are one of the best business models that most people are sleeping on. There's no inventory, no shipping, no customer service, logistic nightmares. Heck, this
+[14:17] guy might not even have any employees working for him. Unlike other business models, every single sale after the first one is almost pure profit. And
+[14:26] when you're able to combine that business model with an AI influencer generating millions of views on the regular, you have found yourself a money
+[14:33] glitch in the system. So now we're going to build our own digital product. And trust me, it's easier than you think.
+[14:40] All we're going to do is come over to a tool called Manis and ask it to build a digital product for us. Then Manis is just going to ask us some simple
+[14:47] questions about what we want the product to be. So, I'm just going to say a 60-day glowup for women who want to lose weight and look and feel their best. The
+[14:54] aesthetic is earthy gym tones, so it should feel like a digital luxury Pilates studio as far as branding. And then I just tell it a little bit about
+[15:02] what I want inside. So, weekly checklists, healthy meal plans, journaling prompts, workout plans for women who want to lose weight and build
+[15:09] muscle. I also told it to include healthy habits like getting 10,000 steps a day, getting sunlight, proper sleep, all the stuff that is actually going to make someone look and feel their best.
+[15:20] And then once you're ready, you can just go ahead and click send and Manis is going to do its thing. So far, I think it looks great. This is super educational, and honestly, I could use
+[15:28] some of this advice, especially for my sleep schedule. It's got nutrition protocols. It's got healthy meal plans.
+[15:34] It's even got these workout programs with specific workouts for your goals.
+[15:38] And I love that it included these progress trackers so that people can actually stay accountable. It's even got this sciencebacked reference section in here, which I love because there's so
+[15:47] many weird products out there like Ompic. And I really like the fact that everything in here is just practical advice for a healthy lifestyle. Just a few months ago, it would have taken me
+[15:56] weeks to put something like this together on my own. But thanks to AI, as you can see, we can do this in less than 20 minutes. So now it's actually time to
+[16:03] start selling this. There are so many options for selling Digi products. I mean, you could do it on school, you could do it on Kajjabi. In fact, my Kajjabi has made a crazy amount of money
+[16:12] over the last few years. But a really simple one for Instagram and enough to get us through this challenge is just using standtore. Basically, there's no
+[16:19] tech, no complicated funnels, and it's built specifically for something like this. All you have to do is create the product, upload the PDF, write one line that basically speaks to the pain point.
+[16:29] And I'm just going to have Claude write most of this for me. For now, I guess I'll do $9. And then we can just hit publish. Once the link is live, we're
+[16:36] going to want to add this to the link in our bio and then start adding a CTA into every caption. Now, if you want to take this a step further, which I would, I
+[16:44] would also go ahead and set up a Many Chat automation to automatically DM people the link, and that's what this looks like that you're seeing on screen.
+[16:52] Now, because this is an AI digital product, if anyone ever asked for a refund, I would send it to them immediately. And by the end of this video, we'll be finding out how many
+[17:00] sales we actually make. But I would highly doubt that anyone asks for a refund because this is honestly better than something I could put together in
+[17:08] like 2 days using Canva by myself. So, let's zoom out and look at how this funnel works. Someone, hopefully your ideal viewer, is scrolling Instagram
+[17:16] board. They see your reel on their explore page because it's going viral.
+[17:20] Then, because they liked your reel, they tap your profile and check out your bio.
+[17:24] Because you're positioned the way that we talked about, they decide to click your link. Then, they go through your landing page and decide to buy your product. All of this is completely
+[17:32] automated and in theory hopefully we start making money while we sleep. We'll see. All right, so we have good news and
+[17:39] some really bad news. The good news is our account has been making sales.
+[17:44] Literally this morning I woke up to multiple sales coming in on our $27 product. But now for the bad news. Our
+[17:52] account seems to have been restricted, meaning we can't make comments on our posts anymore. After doing some investigating, I realized that it's
+[17:59] because we're not labeling all the content as AI content. And this is a really good learning lesson. Basically, when you go to upload your content,
+[18:07] Instagram wants you to tick this AI label button on. And honestly, I'm shocked that my other AI influencers and Rabbi Goldman haven't triggered this
+[18:16] issue. But now, what does that mean for our account? I mean, is it dead? I realized that we basically had two options. Hey, Dad. It's 2035 and
+[18:25] obviously I gave up on that AI account we started. Everyone has lost their jobs to AI and I just wish I could go back in
+[18:32] time and watch those YouTube videos that you sent me on building AI influencers and AI content. My wife says that I need to just let it go and accept that I'm
+[18:41] going to be on universal basic income forever. But [ __ ] you were right and I wish I listened to you when I had the chance.
+[18:47] I'm not going to lie, for a minute I thought we were cooked. Comments are one of the biggest signals Instagram uses to push your content. But then I realized
+[18:55] that this is just one of the many roadblocks that all entrepreneurs face.
+[18:59] Now, while we were editing this video, I did notice that this account was removed from Instagram after passing 1.5 million followers. None of the other AI
+[19:07] influencer accounts that I'm tracking were removed. So, this could have been due to him not labeling the content as AI or possibly the subject matter. The
+[19:15] learning lesson for you is definitely label the content as AI and make sure that you're making content that follows all the rules on Instagram. We
+[19:23] considered quitting and trying to start something else, but instead decided to push on. For the next few days, my team and I spent every waking moment thinking
+[19:31] about our AI influencer. Different formats, different hooks, different audios, some of the most unhinged transformation content you've ever seen.
+[19:40] If we could make it up in our minds, we kept building it inside of Higsfield. We added the AI disclosure to every post that we uploaded. And even though I thought that would tank us, it didn't.
+[19:50] And then something weird started happening. The comments came back. In fact, that disclosure might have actually helped us get more reach
+[19:57] because the next few days were wild. All of a sudden, some of our reels started getting thousands of comments. Our DMs actually started to glitch out because
+[20:05] they were sending so many at a time. And then it was time. All right, so today is day 21 and it's time to reveal this
+[20:13] account and what we were able to accomplish. And I told you for the last week we have been cooking up content on Higsfield. And this reel that I made
+[20:21] just 2 days ago has 12,000 likes. It also has over 235,000 views. And look at that graph. It is
+[20:30] going to keep going up. And just one more health check on the payoff. Look at when people decided to like that. That
+[20:37] is the perfect payoff graph, meaning people are walking away very satisfied.
+[20:43] Our view goal was 5 million views, but so far we've been able to get over 8 million views. Here's how it happened.
+[20:51] We basically had one reel take off, and then after that one popped, the algorithm just started pushing our content like wildfire. My point is, you
+[20:59] don't need every post to go viral. And that reel that I showed you how to make on Higsfield, yeah, it has over 500,000
+[21:06] views and 14,000 likes. But what about the followers? Because our second goal was at least 10,000. Well, we didn't hit
+[21:14] 1 million like Rabbi Goldman, but we did get over 21,000 followers. And if we just scroll down and look at the
+[21:21] countries, these are very healthy demographics. Now, for revenue, and this is probably the most exciting one, we
+[21:29] originally just wanted to make our first sale, but so far, we've ended up making over $2,000. We started with a $9
+[21:36] product, kind of like the Rabbi Goldman play, but as soon as I realized that we weren't going to go as viral as he was, I bumped it up to 27, and we didn't see
+[21:44] any drop in the conversion rate. Also worth noting, still no refund requests to date. But here's what actually surprised me the most. Around day 15, we
+[21:53] got a brand sponsorship request, meaning a brand wanted to pay our AI influencer.
+[21:58] Again, after just 15 days, we originally wanted to stay under $500, and we ended up spending almost $700. I think we
+[22:07] consciously made this decision around the time that we realized we needed to do more, better, and new. But in just 21 days, it's still profitable. So, I have
+[22:16] zero regrets on that. What that does mean for you is that the $500 funniest comment giveaway is also still live in the comments. So, get cooking. Even
+[22:24] beyond this challenge, this account continued to grow. We're now at almost 10 million views, which means that this thing is really just getting started.
+[22:32] The long-term potential here is real.
+[22:34] And look, that's not the only AI influencer account I'm running. This one has over 100 million views over the last
+[22:41] 90 days. And this one with over 250,000 followers grew by 70,000 followers in
+[22:48] the last 30 days alone. I'm showing you all this not as the monk on the mountain, but as the guy in the trenches with you, because I believe that in 6 to
+[22:57] 12 months, almost all the content you see performing well on social media will be made with an AI influencer or AI
+[23:04] enhanced. 6 months ago in this video, I predicted that AI influencers would start dominating Instagram. So, my only
+[23:11] question for you is, what are you going to do with that information? You can either watch this video and let this opportunity pass you by, or you can jump
+[23:19] in now and still be early. I can't wait to see where you are in 6 months. And with that, I will see you on the other side.

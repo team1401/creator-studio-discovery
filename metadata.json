@@ -1,0 +1,32 @@
+{
+  "video_id": "5y407oZ26r0",
+  "url": "https://www.youtube.com/watch?v=5y407oZ26r0",
+  "title": "I BLEW UP an AI influencer on instagram to prove its NOT Luck",
+  "channel": "DIGITAL INCOME PROJECT",
+  "posted_date_from_extraction": "2026-04-21",
+  "retrieved_at_utc": "2026-10-22T15:44:36.713669+00:00",
+  "provenance": "web_extract YouTube page; full cached text preserved verbatim; not audiovisual verification",
+  "segments": 184,
+  "last_segment_start_seconds": 1399,
+  "source_sha256": "fc8b1e6046081c12939a7805e8757d2fd5bdf7da60adfda495fdc14b8026d7c8",
+  "oembed": {
+    "title": "I BLEW UP an AI influencer on instagram to prove its NOT Luck",
+    "author_name": "DIGITAL INCOME PROJECT",
+    "author_url": "https://www.youtube.com/@DIGITALINCOMEPROJECT",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/5y407oZ26r0/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/5y407oZ26r0?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"I BLEW UP an AI influencer on instagram to prove its NOT Luck\"></iframe>"
+  },
+  "transcript_api": {
+    "status": "success",
+    "language": "English (auto-generated)",
+    "is_generated": true
+  }
+}
